@@ -1,0 +1,500 @@
+   98  scp ../jPlayer-skins-master.tar.gz lakshit@10.1.39.210:~/
+   99  scp ../jPlayer-skins-master.tar.gz lakshit@10.1.39.210:~/
+  100  scp /home/hellboy/Downloads/comment.css lakshit@10.1.39.210
+  101  scp /home/hellboy/Downloads/comment.css lakshit@10.1.39.210:~/
+  102  cd dbsyncdoc/Dropbox/
+  103  ls
+  104  cd sem3/
+  105  ls
+  106  cd os/
+  107  ls
+  108  cd ..
+  109  ls
+  110  cd acm/
+  111  ls
+  112  vim sieve.c 
+  113  echo > sieve.c 
+  114  vim sieve.c 
+  115  gcc sieve.c 
+  116  vim sieve.c 
+  117  gcc sieve.c 
+  118  ./a.out
+  119  ./a.out > out
+  120  vim out
+  121  du -h out
+  122  vim sieve.c 
+  123  vim sieve.c 
+  124  ls
+  125  clear
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd ..
+  130  ls
+  131  cd practice/
+  132  ls
+  133  cd codechef/
+  134  ls
+  135  vim 1.c 
+  136  vim 2.c 
+  137  vim alkhwarizm/
+  138  cd alkhwarizm/
+  139  ls
+  140  cd ..
+  141  ls
+  142  cd ..
+  143  cd ..
+  144  cd sem3/
+  145  cd acm/
+  146  ls
+  147  ls
+  148  vim sieve.c 
+  149  gcc sieve.c 
+  150  vim sieve.c 
+  151  gcc sieve.c 
+  152  ./a.out
+  153  vim sieve.c 
+  154  gcc sieve.c 
+  155  ./a.out
+  156  vim sieve.c 
+  157  gcc sieve.c 
+  158  ./a.out
+  159  vim sieve.c 
+  160  gcc sieve.c 
+  161  ./a.out
+  162  vim sieve.c 
+  163  gcc sieve.c 
+  164  ./a.out
+  165  vim sieve.c 
+  166  gcc sieve.c 
+  167  ./a.out
+  168  ./a.out > in
+  169  vim in
+  170  vim sieve.c 
+  171  gcc sieve.c 
+  172  ./a.out > in
+  173  vim in
+  174  vim sieve.c 
+  175  gcc sieve.c 
+  176  ./a.out > in
+  177  vim in
+  178  vim sieve.c 
+  179  gcc sieve.c 
+  180  ./a.out > in
+  181  vim in
+  182  vim in
+  183  vim sieve.c 
+  184  gcc sieve.c 
+  185  ./a.out > in
+  186  vim in
+  187  vim sieve.c 
+  188  gcc sieve.c 
+  189  ./a.out > in
+  190  vim in
+  191  scp Downloads/v13.zip 10.1.39.210:~/
+  192  scp Downloads/v13.zip lakshit@10.1.39.210:~/
+  193  ssh lakshit@10.1.39.210
+  194  clear
+  195  quit
+  196  exit
+  197  ssh lakshit@10.1.39.210
+  198  ssh lakshit@10.1.39.210
+  199  ssh lakshit@10.1.39.210
+  200  ssh lakshit@10.1.39.210
+  201  ssh -v lakshit@10.1.39.210
+  202  ssh -v lakshit@10.1.39.210
+  203  ssh -v lakshit@10.1.39.210
+  204  ssh -v lakshit@10.1.39.210
+  205  ssh -v lakshit@10.1.39.210
+  206  ssh -v lakshit@10.1.39.210
+  207  ssh -v lakshit@10.1.39.210
+  208  ssh -v lakshit@10.1.39.210
+  209  ssh -v lakshit@10.1.39.210
+  210  ssh -v lakshit@10.1.39.210
+  211  ssh -v lakshit@10.1.39.210
+  212  ssh -v lakshit@10.1.39.210
+  213  ssh -v lakshit@10.1.39.210
+  214  ssh -v lakshit@10.1.39.210
+  215  ssh -v lakshit@10.1.39.210
+  216  ssh -v lakshit@10.1.39.210
+  217  ssh -v lakshit@10.1.39.210
+  218  ssh -v lakshit@10.1.39.210
+  219  ssh -v lakshit@10.1.39.210
+  220  ssh -v lakshit@10.1.39.210
+  221  ssh -v lakshit@10.1.39.210
+  222  ssh -v lakshit@10.1.39.210
+  223  ssh -v lakshit@10.1.39.210
+  224  ssh -v lakshit@10.1.39.210
+  225  ssh -v lakshit@10.1.39.210
+  226  man ssh
+  227  ssh -v lakshit@10.1.39.210
+  228  ssh -x lakshit@10.1.39.210
+  229  ssh -X lakshit@10.1.39.210
+  230  ssh -v lakshit@10.1.39.210
+  231  q!
+  232  ls
+  233  cd dbsyncdoc/
+  234  dc Dropbox/
+  235  ls
+  236  cd Dropbox/
+  237  ls
+  238  cd sem3/
+  239  ls
+  240  cd acm/
+  241  ls
+  242  du -h in
+  243  vim sieve.c 
+  244  clear
+  245  ls
+  246  gcc sieve.c 
+  247  in in
+  248  echo > in
+  249  vim in
+  250  gcc sieve.c 
+  251  ./a.out < in
+  252  vim sieve.c 
+  253  gcc sieve.c -lm
+  254  ./a.out < in
+  255  vim sieve.c 
+  256  vim in
+  257  ./a.out
+  258  vim sieve.c 
+  259  gcc sieve.c -lm
+  260  ./a.out < in
+  261  vim sieve.c 
+  262  cp sieve.c sievenew.c
+  263  vim sievenew.c 
+  264  gedit sievenew.c 
+  265  ssh -X y2y@10.4.2.27
+  266  ssh -X y2y@10.4.2.27
+  267  ssh -X lakshit@10.1.39.210
+  268  ssh -X y2y@10.4.2.27
+  269  ssh -X y2y@10.4.2.27
+  270  ssh -X lakshit@10.1.39.210
+  271  ssh -X y2y@10.4.2.27
+  272  scp /home/hellboy/play2.tar.gz lakshit@10.1.39.210:~/
+  273  ssh -X y2y@10.4.2.27
+  274  ls
+  275  cd /var/www/
+  276  ls
+  277  cd newnew
+  278  ls
+  279  ls
+  280  cd newtest/
+  281  ls
+  282  cd ..
+  283  ls
+  284  cd newest/
+  285  ld
+  286  ls
+  287  cd newplayer/
+  288  ls
+  289  vim getsong.php 
+  290  cd
+  291  cd Documents/
+  292  ls
+  293  cd web2py/
+  294  ls
+  295  python web2py.py 
+  296  sudo iptables -L
+  297  iptables -L
+  298  pythin
+  299  python
+  300  ls
+  301  cd 
+  302  ls
+  303  cd /var/www/
+  304  ls
+  305  cd newnew
+  306  s
+  307  ls
+  308  cd newtest/
+  309  ls
+  310  ls
+  311  vim index.html 
+  312  cd ..
+  313  ls
+  314  vim newtest/
+  315  cd newtest/
+  316  ls
+  317  vim index.html 
+  318  cd ..
+  319  ls
+  320  vim radioorg/
+  321  cd radioorg/
+  322  ls
+  323  cd ..
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd newnewnew/
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd radiotest/
+  332  ls
+  333  cd ..
+  334  ls
+  335  cd newtemp/
+  336  l
+  337  ks
+  338  ls
+  339  cd ..
+  340  ls
+  341  cd radioinit/
+  342  ls
+  343  cd ..
+  344  ls
+  345  cd radiotest/
+  346  ls
+  347  cd ..
+  348  ls
+  349  sudo nautilus
+  350  cd /home/hellboy/Documents/
+  351  ls
+  352  cd web2py/
+  353  ls
+  354  python web2py.py 
+  355  python web2py.py -a '1' -i 10.1.40.18240.182 -p 8000
+  356  python web2py.py -a '1' -i 10.1.40.18240.182 -p 8000
+  357  python web2py.py -a '1' -i 10.1.40.18282 -p 8000
+  358  python web2py.py -a '1' -i 10.1.40.182 -p 8000
+  359  ifconfig
+  360  python web2py.py -a '1' -i 192.168.137.96 -p 8000
+  361  python web2py.py -a '1' -i 10.1.40.182 -p 8000
+  362  python web2py.py -a '1' -i 10.1.40.182 -p 8010
+  363  python web2py.py -a '1' -i 192.168.137.96 -p 8000
+  364  cd 
+  365  cd Downloads/
+  366  tar -xvf LoginRegistrationForm.zip 
+  367  unzip LoginRegistrationForm.zip 
+  368  cp -r LoginRegistrationForm /var/www/
+  369  sudo cp -r LoginRegistrationForm /var/www/
+  370  ls
+  371  cd dbsyncdoc/Dropbox/
+  372  ls
+  373  cd sem3/
+  374  ls
+  375  cd acm/
+  376  ls
+  377  gedit sieve.c 
+  378  cp sieve.c sieveoptimesed.c
+  379  vim sieveoptimesed.c 
+  380  cp sieveoptimesed.c noofodd.c
+  381  vim noofodd.c 
+  382  gcc noofodd.c 
+  383  ./a.out
+  384  vim sieveoptimesed.c 
+  385  gcc sieveoptimesed.c 
+  386  vim sieveoptimesed.c 
+  387  gcc sieveoptimesed.c 
+  388  gcc sieveoptimesed.c -lm
+  389  vim in
+  390  ./a.out < in
+  391  vim sieveoptimesed.c 
+  392  gcc sieveoptimesed.c -lm
+  393  ./a.out < in
+  394  ./a.out < in
+  395  vim sieveoptimesed.c 
+  396  ./a.out < in> out
+  397  vim out
+  398  vim sieveoptimesed.c 
+  399  gcc sieveoptimesed.c -lm
+  400  ./a.out < in> out
+  401  vim out
+  402  vim sieveoptimesed.c 
+  403  gcc sieveoptimesed.c -lm
+  404  vim sieveoptimesed.c 
+  405  gcc sieveoptimesed.c -lm
+  406  ./a.out < in> out
+  407  vim our
+  408  ./a.out < in> out
+  409  vim out
+  410  vim sieveoptimesed.c 
+  411  gcc sieveoptimesed.c 
+  412  gcc sieveoptimesed.c -lm
+  413  ./a.out
+  414  vim sieveoptimesed.c 
+  415  gcc sieveoptimesed.c -lm
+  416  ./a.out 
+  417  vim sieveoptimesed.c 
+  418  gcc sieveoptimesed.c -lm
+  419  ./a.out 
+  420  ./a.out > out
+  421  vim out
+  422  sudo su
+  423  ls
+  424  gedit sieveoptimesed.c 
+  425  gedit out
+  426  vim out
+  427  ls .ssh/
+  428  ls
+  429  ls
+  430  cd .ssh/
+  431  ls
+  432  svn co svn+ssh://kumar.rishabh@10.4.7.66/project40
+  433  cp -r final/ .
+  434  mkdir r2
+  435  cp -r final/ ./r2
+  436  svn add r2/
+  437  svn add ./r2/
+  438  ls
+  439  cp -r r2/ project40/
+  440  cd r2/
+  441  ls
+  442  ls
+  443  cd final/
+  444  ls
+  445  svn add .
+  446  ls
+  447  cd ..
+  448  svn add .
+  449  ls
+  450  cd ..
+  451  ls
+  452  cd project40/
+  453  ls
+  454  svn add r2/ .
+  455  ls
+  456  svn commit r2/
+  457  ls
+  458  cd .ssh/
+  459  ls
+  460  cd project40/
+  461  ls
+  462  svn commit r2/ -m "final project"
+  463  svn commit -m "r2"
+  464  svn commit -m 'r2'
+  465  ls
+  466  svn add r2/
+  467  svn commit
+  468  cd .ssh/
+  469  ls
+  470  cd project40/
+  471  ls
+  472  svn add -m "final project added"
+  473  svn add 
+  474  svn commit -m "final project added"
+  475  svn status
+  476  svn log
+  477  svn status
+  478  ls
+  479  cd dbsyncdoc/Dropbox/
+  480  LS
+  481  ls
+  482  cd sem3/
+  483  ls
+  484  cd acm/
+  485  ls
+  486  vim sieveoptimesed.c 
+  487  ping www.google.com
+  488  man vfork
+  489  sudo su
+  490  ls
+  491  cd Desktop/
+  492  ls
+  493  cd pythongame/
+  494  ls
+  495  python game1.py 
+  496  q!
+  497  ls
+  498  vim game1.py 
+  499  python 2X2.py 
+  500  python 2X2.py 
+  501  python 2X2.py 
+  502  ls
+  503  touch README.md
+  504  git init
+  505  ls
+  506  git add README.md
+  507  git commit -m "first commit"
+  508  git config --global user.email shailrishabh@gmail.com
+  509  git commit --amend --reset-author
+  510  ls
+  511  git add *
+  512  git commit -m "pythongame"
+  513  git remote add origin https://github.com/hellboy2k8/python_game.git
+  514  git push -u origin master
+  515  ls
+  516  cd
+  517  ls
+  518  cd dbsyncdoc/
+  519  ls
+  520  cd Dropbox/
+  521  ls
+  522  cd sem3/os/
+  523  ls
+  524  vim shell1.c 
+  525  cd ~/Desktop/
+  526  ls
+  527  ls
+  528  ls
+  529  gcc Ass2.c 
+  530  ./a.out
+  531  ls
+  532  ls
+  533  mkdir os
+  534  cp Ass2.c os/
+  535  ls
+  536  cd os/
+  537  ls
+  538  git init
+  539  ls
+  540  git add *
+  541  git commit -m "terminal_emulator added"
+  542  git remote add origin https://github.com/hellboy2k8/python_game
+  543  git commit -m "terminal_emulator added"
+  544  git remote add origin https://github.com/hellboy2k8/terminal_emulator
+  545  ls
+  546  git init
+  547  git add *
+  548  git commit -m "first_commit"
+  549  git remote add origin https://github.com/hellboy2k8/terminal_emulator
+  550  ls -a
+  551  ls
+  552  cd .git/
+  553  ls
+  554  ls
+  555  vim config 
+  556  ls
+  557  cd ..
+  558  ls
+  559  git remote add origin https://github.com/hellboy2k8/terminal_emulator
+  560  git reset --hard
+  561  git reset --hard
+  562  git reset --hard
+  563  git reset --hard
+  564  git clean -xdf
+  565  ls -a
+  566  ls
+  567  ls
+  568  ls
+  569  ls -a
+  570  ls
+  571  cd .git
+  572  ls
+  573  vim config 
+  574  cd ..
+  575  ls
+  576  rm -r .git
+  577  y
+  578  ls
+  579  ls -a
+  580  ls
+  581  cd ..
+  582  ls
+  583  cd pythongame/
+  584  python 2X2.py 
+  585  cd ..
+  586  ls
+  587  cd os
+  588  ls
+  589  git init
+  590  ls
+  591  git add *
+  592  git commit -m "terminal_emulator"
+  593  ls
+  594  git remote add origin  https://github.com/hellboy2k8/terminal_emulator
+  595  git remote add origin  https://github.com/hellboy2k8/terminal_emulator
+  596  ls
+  597  history > out
